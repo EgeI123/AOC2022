@@ -1,0 +1,8 @@
+C:\Users\egeis\L8th Comp Code\AOC2022\obj\Debug\AOC2022.csproj.AssemblyReference.cache
+C:\Users\egeis\L8th Comp Code\AOC2022\obj\Debug\AOC2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\egeis\L8th Comp Code\AOC2022\obj\Debug\AOC2022.csproj.CoreCompileInputs.cache
+C:\Users\egeis\L8th Comp Code\AOC2022\bin\Debug\AOC2022.exe.config
+C:\Users\egeis\L8th Comp Code\AOC2022\bin\Debug\AOC2022.exe
+C:\Users\egeis\L8th Comp Code\AOC2022\bin\Debug\AOC2022.pdb
+C:\Users\egeis\L8th Comp Code\AOC2022\obj\Debug\AOC2022.exe
+C:\Users\egeis\L8th Comp Code\AOC2022\obj\Debug\AOC2022.pdb
